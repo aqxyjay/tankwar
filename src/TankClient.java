@@ -75,7 +75,7 @@ public class TankClient extends Frame {
     private class KeyMonitor extends KeyAdapter {
         @Override
         public void keyPressed(KeyEvent e) {
-        int key = e.getKeyCode();
+            int key = e.getKeyCode();
             switch (key) {
                 case KeyEvent.VK_LEFT:
                     x -= 5;
