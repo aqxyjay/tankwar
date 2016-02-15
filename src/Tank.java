@@ -1,9 +1,6 @@
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
-/**
- * Created by aqxyj_000 on 2014/12/19.
- */
 public class Tank {
 
     int x;
